@@ -1,1 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://www.apple.com/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.google.com/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
 
